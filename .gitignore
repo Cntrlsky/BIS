@@ -1,0 +1,15 @@
+# Power BI cache/temp
+*.log
+*.tmp
+*.cache
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python (ONLY if you use it later)
+__pycache__/
+*.pyc
