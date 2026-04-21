@@ -1,15 +1,29 @@
-# Power BI cache/temp
-*.log
-*.tmp
-*.cache
-
 # OS junk
 .DS_Store
 Thumbs.db
 
-# VS Code
+# Power BI temp / autosave
+*.pbix.autosave
+*.tmp
+*.log
+
+# VS Code (optional)
 .vscode/
 
-# Python (ONLY if you use it later)
+# Python cache (only if you used Python at all)
 __pycache__/
 *.pyc
+
+# Overleaf / LaTeX build files (IMPORTANT if you upload your report project)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.lof
+*.lot
+
+# Optional: ignore random downloads
+*.zip
