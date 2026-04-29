@@ -14,7 +14,5 @@ Participants
     Davied Abdalla - 25100513
   
     Yasser Sharab - 25101251
-  
-    Hamza Murad - 25100180
 
 
